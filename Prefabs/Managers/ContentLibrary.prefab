@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1622024337747893376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1622024337747893438}
+  - component: {fileID: 1622024337747893377}
+  m_Layer: 0
+  m_Name: ContentLibrary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1622024337747893438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1622024337747893376}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.6607482, y: 0.72265804, z: -26.498722}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1622024337747893377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1622024337747893376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54da9a25a5685134c98501911e6ffe31, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Misha: {fileID: 3309616656311370071, guid: a98a95bcbdf5845408e376fe89bb38c3, type: 3}
+  itemHash:
+  - {fileID: 7878168060482970003, guid: d4f52aee82f024743a3d29fef3eb458e, type: 3}
+  - {fileID: 4372266243463428526, guid: 324a05f55010fe04d84448d5dafab22f, type: 3}
+  - {fileID: 3602878862523061775, guid: 4ce0ca7327f3ee94d9bc012b2d0e6f7d, type: 3}
+  - {fileID: 4184283986300198337, guid: f4d2f222b57cffe49bc60ab8f6bc04d5, type: 3}
+  - {fileID: 542364421346635809, guid: b5e1378f76bd73a4c95a98d4c9c9d9db, type: 3}
+  - {fileID: 8608732286013452644, guid: 63c24deeeb4eade4ea7e89c9b3583a0a, type: 3}
+  - {fileID: 2744821979798349584, guid: c0df341c2a9d6544eab68c2682446d32, type: 3}
+  - {fileID: 2481652018924161690, guid: 79e745a73a2fc3f4ea0eabfcdd34b8d0, type: 3}
+  Bullet01: {fileID: 3386280328875084149, guid: 9a0d4b754c7c10145acda51bf81ef7f9,
+    type: 3}
+  select: {fileID: 8300000, guid: e623f0e8dc778904eaf5f21d0adb4cdf, type: 3}
